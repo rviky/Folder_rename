@@ -1,4 +1,4 @@
-# folder_rename
+# Folder_rename
 
 <ol>
   <li>Remove .git folder before executing the script.</li>
